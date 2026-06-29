@@ -11,7 +11,7 @@
     "version": "1.16.5"
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
