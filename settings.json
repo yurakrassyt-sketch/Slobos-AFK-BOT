@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "",
-    "password": "",
+    "username": "fgedrfg",
+    "password": "435464",
     "type": "online"
   },
   "server": {
-    "ip": "",
-    "port": ,
-    "version": ""
+    "ip":kaka.aternos.me "",
+    "port":33962 ,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": false,
